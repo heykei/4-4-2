@@ -1,1 +1,67 @@
-transform: translateX(19em) translateY(11em) rotate(180deg);
+.j17 img {
+    width: 4vw;
+    height: 6vh;
+    transform: translateX(20.7em) translateY(-5.5em) rotate(0deg);
+}
+
+.j16 img {
+    width: 4vw;
+    height: 6vh;
+    transform: translateX(17.2em) translateY(-5.5em) rotate(0deg);
+}
+
+.j18 img {
+    width: 4vw;
+    height: 6vh;
+    transform: translateX(24.2em) translateY(-5.5em) rotate(0deg);
+}
+
+.j19 img {
+    width: 4vw;
+    height: 6vh;
+    transform: translateX(28.2em) translateY(-5.5em) rotate(0deg);
+}
+
+.j25 img {
+    transform: translateX(1em) translateY(18em) rotate(90deg);
+}
+
+.j26 img {
+    transform: translateX(18em) translateY(3em) rotate(90deg);
+}
+
+.j24 img {
+    transform: translateX(12em) translateY(12em) rotate(90deg);
+}
+
+.j23 img {
+    transform: translateX(12em) translateY(25em) rotate(90deg);
+}
+
+.j22 img {
+    transform: translateX(17em) translateY(34em) rotate(90deg);
+}
+
+.j21 img {
+    transform: translateX(31em) translateY(7em) rotate(90deg);
+}
+
+.j15 img {
+    transform: translateX(23em) translateY(13em) rotate(90deg);
+}
+
+.j20 img {
+    transform: translateX(23em) translateY(24em) rotate(90deg);
+}
+
+.j28 img {
+    transform: translateX(31em) translateY(30em) rotate(90deg);
+}
+
+.j27 img {
+    transform: translateX(40em) translateY(21em) rotate(0deg);
+}
+
+.j29 img {
+    transform: translateX(40em) translateY(14em) rotate(180deg);
+}

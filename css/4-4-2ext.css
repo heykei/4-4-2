@@ -1,68 +1,68 @@
 .j13 img {
-    transform: translateX(47em) translateY(14em) rotate(180deg);
+    transform: translateX(57em) translateY(14em) rotate(180deg);
 }
 
 .j12 img {
-    transform: translateX(47em) translateY(21em) rotate(359deg);
+    transform: translateX(57em) translateY(21em) rotate(359deg);
 }
 
 .j14 img {
-    transform: translateX(86em) translateY(18em) rotate(270deg);
+    transform: translateX(103em) translateY(18em) rotate(270deg);
 }
 
 .j6 img {
-    transform: translateX(75em) translateY(12em) rotate(270deg);
+    transform: translateX(91em) translateY(12em) rotate(270deg);
 }
 
 .j5 img {
-    transform: translateX(75em) translateY(23em) rotate(270deg);
+    transform: translateX(91em) translateY(23em) rotate(270deg);
 }
 
 .j7 img {
-    transform: translateX(67em) translateY(3em) rotate(270deg);
+    transform: translateX(80em) translateY(3em) rotate(270deg);
 }
 
 .j4 img {
-    transform: translateX(67em) translateY(32em) rotate(270deg);
+    transform: translateX(80em) translateY(32em) rotate(270deg);
 }
 
 .j10 img {
-    transform: translateX(63em) translateY(13em) rotate(270deg);
+    transform: translateX(73em) translateY(13em) rotate(270deg);
 }
 
 .j9 img {
-    transform: translateX(63em) translateY(23em) rotate(270deg);
+    transform: translateX(73em) translateY(23em) rotate(270deg);
 }
 
 .j8 img {
-    transform: translateX(54em) translateY(30em) rotate(270deg);
+    transform: translateX(64em) translateY(30em) rotate(270deg);
 }
 
 .j11 img {
-    transform: translateX(54em) translateY(6em) rotate(270deg);
+    transform: translateX(64em) translateY(6em) rotate(270deg);
 }
 
 .j3 img {
     width: 4vw;
     height: 6vh;
-    transform: translateX(72em) translateY(44.8em) rotate(180deg);
+    transform: translateX(7.5em) translateY(-11.5em) rotate(180deg);
 }
 
 .j2 img {
     width: 4vw;
     height: 6vh;
-    transform: translateX(68em) translateY(44.8em) rotate(180deg);
+    transform: translateX(3em) translateY(-7.8em) rotate(180deg);
 }
 
 .j1 img {
     width: 4vw;
     height: 6vh;
-    transform: translateX(64.5em) translateY(44.8em) rotate(180deg);
+    transform: translateX(12em) translateY(-4em) rotate(180deg);
 }
 
 .j0 img {
     width: 4vw;
     height: 6vh;
-    transform: translateX(61em) translateY(44.8em) rotate(180deg);
+    transform: translateX(-0.4em) translateY(-0.4em) rotate(180deg);
 }
 

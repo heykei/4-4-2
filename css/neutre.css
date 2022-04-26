@@ -1,16 +1,16 @@
 .arbitre3 img {
-    transform: translateX(43.7em) translateY(11em) rotate(180deg);
+    transform: translateX(52.7em) translateY(10em) rotate(180deg);
 }
 
 .arbitre2 img {
     width: 5vw;
     height: 9vh;
-    transform: translateX(4em) translateY(-6em) rotate(0deg);
+    transform: translateX(6em) translateY(-5.5em) rotate(0deg);
 }
 
 .arbitre1 img {
     width: 5vw;
     height: 9vh;
-    transform: translateX(83em) translateY(43em) rotate(180deg);
+    transform: translateX(100em) translateY(42em) rotate(180deg);
 }
 

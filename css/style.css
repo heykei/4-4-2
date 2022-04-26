@@ -269,6 +269,7 @@ li{
     height: 8vh; 
 }
 .bal img{
+    position: absolute;
     width: 6vw;
     height: 8vh;
     z-index: 1;

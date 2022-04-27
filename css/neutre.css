@@ -14,3 +14,37 @@
     transform: translateX(100em) translateY(42em) rotate(180deg);
 }
 
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .arbitre3 img {
+        transform: translateX(5em) translateY(-1.8em) rotate(180deg);
+    }
+    
+    .arbitre2 img {
+        width: 5vw;
+        height: 9vh;
+        transform: translateX(19em) translateY(21.9em) rotate(270deg);
+    }
+    
+    .arbitre1 img {
+        width: 6vw;
+        height: 8vh;
+        transform: translateX(27em) translateY(50em) rotate(0deg);
+    }
+}

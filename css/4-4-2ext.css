@@ -66,3 +66,66 @@
     transform: translateX(-0.4em) translateY(-0.4em) rotate(180deg);
 }
 
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .j7 img {
+        transform: translateX(19em) translateY(25em) rotate(270deg);
+    }
+    
+    .j11 img {
+        transform: translateX(11em) translateY(25em) rotate(90deg);
+    }
+    
+    .j12 img {
+        transform: translateX(19em) translateY(41em) rotate(0deg);
+    }
+    
+    .j13 img {
+        transform: translateX(10em) translateY(41em) rotate(0deg);
+    }
+    
+    .j10 img {
+        transform: translateX(5em) translateY(41em) rotate(0deg);
+    }
+    
+    .j14 img {
+        transform: translateX(24em) translateY(41em) rotate(0deg);
+    }
+    
+    .j6 img {
+        transform: translateX(24em) translateY(35em) rotate(0deg);
+    }
+    
+    .j8 img {
+        transform: translateX(19em) translateY(35em) rotate(0deg);
+    }
+    
+    .j9 img {
+        transform: translateX(10em) translateY(35em) rotate(0deg);
+    }
+    
+    .j4 img {
+        transform: translateX(5em) translateY(35em) rotate(0deg);
+    }
+    
+    .j5 img {
+        transform: translateX(15em) translateY(46em) rotate(0deg);
+    }
+}
+

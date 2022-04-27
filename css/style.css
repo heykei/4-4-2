@@ -475,7 +475,13 @@ body{
     
 }
 /*Fin partie droite terrain*/
-
+.bal img{
+    position: absolute;
+    width: 9vw;
+    height: 8vh;
+    z-index: 1;
+    transform: translateX(14.6em) translateY(22.5em) rotate(0deg);
+}
 
 
 }
